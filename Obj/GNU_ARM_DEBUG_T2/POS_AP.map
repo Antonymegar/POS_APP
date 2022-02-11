@@ -1,0 +1,1082 @@
+Archive member included because of file (symbol)
+
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (DisplayFooter)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (DisplayHeader)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (DisplayLeds)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Read_date)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (IsISO1)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (IsISO2)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (IsISO3)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_ServiceRegister)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (atoi)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Pprintf)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o) (Telium_Stdprt)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (sprintf)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o) (extenslib_open)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o) (toolslib_open)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+                              Obj/GNU_ARM_DEBUG_T2/Main.o (ApplicationGetCurrent)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_close)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_length)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_mount)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_open)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_read)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_unmount)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (ObjectGetInfo)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o) (Telium_Exit)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Fclose)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Fopen)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (Telium_Is_iso1)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (Telium_Is_iso2)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (Telium_Is_iso3)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+                              Obj/GNU_ARM_DEBUG_T2/processCard.o (Telium_Status)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o) (Telium_Stdperif)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Ttestall)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o) (Telium_Vfprintf)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o) (Telium_Vsprintf)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (first_init)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (raz_init)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (ufree)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (umalloc)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (urealloc)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o) (OSL_Dll_Close)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o) (OSL_Dll_GetSymbolByName)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o) (OSL_Dll_OpenByAppliType)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+                              Obj/GNU_ARM_DEBUG_T2/saleMenu.o (GL_Dialog_Amount)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (GL_Dialog_Menu)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Dialog_Message)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+                              Obj/GNU_ARM_DEBUG_T2/saleMenu.o (GL_Dialog_Password)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_GraphicLib_Create)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_GraphicLib_ReadResource)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Label_Create)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Message_GetWindow)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Message_SetResult)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_Destroy)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Widget_GetText)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Widget_RegisterCallback)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Widget_SearchId)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_SetBackAlign)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_SetFontScale)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_SetText)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Window_Create)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Window_Dispatch)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Window_GetResult)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Window_MainLoop)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Window_PreviousFocus)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o) (GL_GetProcAddressWithoutExit)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o) (GL_InitFuncAndBranch)
+D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (memcpy)
+D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (memset)
+D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (strchr)
+D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (strcpy)
+D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+                              Obj/GNU_ARM_DEBUG_T2/billPayment.o (strlen)
+D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (strncpy)
+D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+                              D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o) (upload_diagnostic_txt)
+
+Allocating common symbols
+Common symbol       size              file
+
+sSavedStatusLeds    0x4               Obj/GNU_ARM_DEBUG_T2/Menu.o
+totalAmount         0x1e              Obj/GNU_ARM_DEBUG_T2/cashBack.o
+tcTrk2              0x80              Obj/GNU_ARM_DEBUG_T2/processCard.o
+billamount          0xc               Obj/GNU_ARM_DEBUG_T2/billPayment.o
+sale                0x5               Obj/GNU_ARM_DEBUG_T2/cashBack.o
+sSavedStatusFooter  0x4               Obj/GNU_ARM_DEBUG_T2/Menu.o
+sSavedStatusHeader  0x4               Obj/GNU_ARM_DEBUG_T2/Menu.o
+tcTrk3              0x80              Obj/GNU_ARM_DEBUG_T2/processCard.o
+cardDetails         0x190             Obj/GNU_ARM_DEBUG_T2/cashBack.o
+tcTrk1              0x80              Obj/GNU_ARM_DEBUG_T2/processCard.o
+billNumber          0x9               Obj/GNU_ARM_DEBUG_T2/billPayment.o
+cashBack            0x5               Obj/GNU_ARM_DEBUG_T2/cashBack.o
+pin                 0x4               Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00001000                . = 0x1000
+                0x00001000                __text_start = .
+
+.text           0x00001000     0x3276
+ *(.first)
+ .first         0x00001000       0x8c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+                0x00001000                _start
+ *(.text .text.*)
+ .text          0x0000108c      0x104 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+                0x0000113c                __stack_chk_fail
+ .text          0x00001190       0xc0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+                0x00001190                _calloc_r
+                0x000011e0                _free_r
+                0x000011fc                _malloc_r
+                0x00001224                _realloc_r
+ .text          0x00001250      0x2a8 Obj/GNU_ARM_DEBUG_T2/Main.o
+                0x00001250                Main
+ .text          0x000014f8      0xfec Obj/GNU_ARM_DEBUG_T2/Entry.o
+                0x000014f8                give_your_domain
+                0x0000155c                after_reset
+                0x000015b8                is_name
+                0x00001654                is_state
+                0x000016ac                idle_message
+                0x00001778                more_function
+                0x000017ac                keyboard_event
+                0x00001818                state
+                0x000018fc                consult
+                0x000019b0                mcall
+                0x00001a64                is_time_function
+                0x00001abc                time_function
+                0x00001b30                is_change_init
+                0x00001bc0                modif_param
+                0x00001c50                is_evol_pg
+                0x00001ca8                is_delete
+                0x00001ce0                file_received
+                0x00001e60                message_received
+                0x00001f18                is_card_specific
+                0x00001f70                card_inside
+                0x00001fc4                is_for_you_after
+                0x00002164                debit_non_emv
+                0x000022bc                give_your_specific_context
+                0x000023dc                give_interface
+                0x00002440                entry
+ .text          0x000024e4      0x1f0 Obj/GNU_ARM_DEBUG_T2/Menu.o
+                0x000024e4                menuGoalDisplay
+                0x000025a8                initUIContext
+                0x00002650                releaseUIContext
+ .text          0x000026d4      0x38c Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+                0x000026d4                dateScreenUseGoalResource
+ .text          0x00002a60       0xd4 Obj/GNU_ARM_DEBUG_T2/Utils.o
+                0x00002a60                utilsCheckDate
+ .text          0x00002b34      0x20c Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+                0x00002b34                makeSale
+                0x00002c8c                printSales
+ .text          0x00002d40      0x1dc Obj/GNU_ARM_DEBUG_T2/billPayment.o
+                0x00002d40                makeBillPayment
+                0x00002e6c                printBill
+ .text          0x00002f1c      0x240 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+                0x00002f1c                makeCashBack
+                0x00003088                printReciept
+ .text          0x0000315c      0x598 Obj/GNU_ARM_DEBUG_T2/processCard.o
+                0x0000315c                checkISO
+                0x00003268                swipeOrCard
+                0x000032b4                waitCard
+ .text          0x000036f4       0x5c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+                0x00003704                DisplayFooter
+ .text          0x00003750       0x5c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+                0x00003760                DisplayHeader
+ .text          0x000037ac       0x58 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+                0x000037b8                DisplayLeds
+ .text          0x00003804       0x60 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+                0x00003818                Telium_Read_date
+ .text          0x00003864       0x5c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+                0x0000386c                IsISO1
+ .text          0x000038c0       0x5c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+                0x000038c8                IsISO2
+ .text          0x0000391c       0x5c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+                0x00003924                IsISO3
+ .text          0x00003978       0x64 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+                0x00003990                Telium_ServiceRegister
+ .text          0x000039dc       0x50 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+                0x000039dc                atol
+                0x00003a20                atoi
+ .text          0x00003a2c       0x34 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+                0x00003a2c                Telium_Pprintf
+ .text          0x00003a60       0x20 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+                0x00003a68                Telium_Stdprt
+ .text          0x00003a80       0x20 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+                0x00003a80                sprintf
+ .text          0x00003aa0       0x74 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+                0x00003aa0                extenslib_close
+                0x00003ab4                extenslib_open
+                0x00003af0                GetProcAddressExtens
+ .text          0x00003b14       0x78 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+                0x00003b14                toolslib_close
+                0x00003b28                toolslib_open
+                0x00003b68                GetProcAddressTools
+ .text          0x00003b8c        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+                0x00003b8c                ApplicationGetCurrent
+ .text          0x00003b9a        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+                0x00003b9a                FS_close
+ .text          0x00003ba8        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+                0x00003ba8                FS_length
+ .text          0x00003bb6        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+                0x00003bb6                FS_mount
+ .text          0x00003bc4        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+                0x00003bc4                FS_open
+ .text          0x00003bd2        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+                0x00003bd2                FS_read
+ .text          0x00003be0        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+                0x00003be0                FS_unmount
+ .text          0x00003bee        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+                0x00003bee                ObjectGetInfo
+ .text          0x00003bfc        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+                0x00003bfc                Telium_Exit
+ .text          0x00003c0a        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+                0x00003c0a                Telium_Fclose
+ .text          0x00003c18        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+                0x00003c18                Telium_Fopen
+ .text          0x00003c26        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+                0x00003c26                Telium_Is_iso1
+ .text          0x00003c34        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+                0x00003c34                Telium_Is_iso2
+ .text          0x00003c42        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+                0x00003c42                Telium_Is_iso3
+ .text          0x00003c50        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+                0x00003c50                Telium_Status
+ .text          0x00003c5e        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+                0x00003c5e                Telium_Stdperif
+ .text          0x00003c6c        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+                0x00003c6c                Telium_Ttestall
+ .text          0x00003c7a        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+                0x00003c7a                Telium_Vfprintf
+ .text          0x00003c88        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+                0x00003c88                Telium_Vsprintf
+ .text          0x00003c96        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+                0x00003c96                first_init
+ .text          0x00003ca4        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+                0x00003ca4                raz_init
+ .text          0x00003cb2        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+                0x00003cb2                ufree
+ .text          0x00003cc0        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+                0x00003cc0                umalloc
+ .text          0x00003cce        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+                0x00003cce                urealloc
+ .text          0x00003cdc        0xc D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+                0x00003cdc                OSL_Dll_Close
+ .text          0x00003ce8        0xc D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+                0x00003ce8                OSL_Dll_GetSymbolByName
+ .text          0x00003cf4        0xc D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+                0x00003cf4                OSL_Dll_OpenByAppliType
+ .text          0x00003d00       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+                0x00003d0c                GL_Dialog_Amount
+ .text          0x00003d24       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+                0x00003d30                GL_Dialog_Menu
+ .text          0x00003d48       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+                0x00003d54                GL_Dialog_Message
+ .text          0x00003d6c       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+                0x00003d78                GL_Dialog_Password
+ .text          0x00003d90       0xbc D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+                0x00003d90                GL_GraphicLib_Create
+                0x00003e0c                GL_GraphicLib_Create_Init
+ .text          0x00003e4c       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+                0x00003e58                GL_GraphicLib_ReadResource
+ .text          0x00003e70       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+                0x00003e7c                GL_Label_Create
+ .text          0x00003e94       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+                0x00003ea0                GL_Message_GetWindow
+ .text          0x00003eb8       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+                0x00003ec4                GL_Message_SetResult
+ .text          0x00003edc       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+                0x00003ee8                GL_Widget_Destroy
+ .text          0x00003f00       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+                0x00003f0c                GL_Widget_GetText
+ .text          0x00003f24       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+                0x00003f30                GL_Widget_RegisterCallback
+ .text          0x00003f48       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+                0x00003f54                GL_Widget_SearchId
+ .text          0x00003f6c       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+                0x00003f78                GL_Widget_SetBackAlign
+ .text          0x00003f90       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+                0x00003f9c                GL_Widget_SetFontScale
+ .text          0x00003fb4       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+                0x00003fc0                GL_Widget_SetText
+ .text          0x00003fd8       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+                0x00003fe4                GL_Window_Create
+ .text          0x00003ffc       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+                0x00004008                GL_Window_Dispatch
+ .text          0x00004020       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+                0x0000402c                GL_Window_GetResult
+ .text          0x00004044       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+                0x00004050                GL_Window_MainLoop
+ .text          0x00004068       0x24 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+                0x00004074                GL_Window_PreviousFocus
+ .text          0x0000408c      0x114 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+                0x0000408c                GL_IsPresent
+                0x000040c8                GL_GetProcAddressWithoutExit
+                0x00004160                GL_GetProcAddress
+ .text          0x000041a0       0x2c D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+                0x000041a0                GL_InitFuncAndBranch
+                0x000041b0                GL_Swi_ObjectLoad
+                0x000041be                GL_Swi_DllLink
+ .text          0x000041cc       0x1c D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+                0x000041cc                memcpy
+ .text          0x000041e8       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+                0x000041e8                memset
+ .text          0x000041f8       0x1c D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+                0x000041f8                strchr
+ .text          0x00004214       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+                0x00004214                strcpy
+ .text          0x00004224       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+                0x00004224                strlen
+ .text          0x00004234       0x34 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+                0x00004234                strncpy
+ .text          0x00004268        0xe D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+                0x00004268                upload_diagnostic_txt
+ *(.gnu.linkonce.t.*)
+ *(.strings .strings.*)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.gcc_except_table)
+
+.vfp11_veneer   0x00004278        0x0 load address 0x00004276
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00004278        0x0 load address 0x00004276
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.eh_frame
+ *(.eh_frame)
+
+.jcr
+ *(.jcr)
+
+.ctors          0x00004276        0x0
+                0x00004276                __ctors_start = .
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00004276                __ctors_end = .
+
+.dtors          0x00004276        0x0
+                0x00004276                __dtors_start = .
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00004276                __dtors_end = .
+
+.rodata         0x00004278      0x9d2
+ *(.rodata .rodata.*)
+ .rodata        0x00004278       0x18 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+ .rodata        0x00004290       0xd8 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .rodata        0x00004368      0x35c Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .rodata        0x000046c4       0x68 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .rodata        0x0000472c       0xa4 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+                0x0000472c                DATESCREEN_OK_STATUS
+                0x00004730                DATESCREEN_CANCEL_STATUS
+ .rodata        0x000047d0      0x108 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .rodata        0x000048d8       0xf4 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .rodata        0x000049cc       0xe8 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .rodata        0x00004ab4      0x124 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .rodata.str1.1
+                0x00004bd8        0x8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .rodata.str1.1
+                0x00000000        0x8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .rodata.str1.1
+                0x00004be0       0x6a D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ *(.gnu.linkonce.r.*)
+                0x00004c4a                __text_end = .
+                0x00200000                . = 0x200000
+
+.data           0x00200000      0x310 load address 0x00004c4a
+                0x00200000                __data_start = .
+ *(.data .data.*)
+ .data          0x00200000        0x8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+                0x00200000                __stack_chk_guard
+                0x00200004                __dso_handle
+ .data          0x00200008        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .data          0x00200008        0x0 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .data          0x00200008      0x108 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .data          0x00200110       0x28 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+                0x00200110                amountMask
+                0x00200124                pinMask
+                0x00200130                Curr
+ .data          0x00200138       0x34 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+                0x00200138                curr
+                0x00200140                billNumberMask
+                0x00200154                No
+                0x00200158                billamountMask
+ .data          0x0020016c       0x2c Obj/GNU_ARM_DEBUG_T2/cashBack.o
+                0x0020016c                pinpadMask
+                0x00200178                Currency
+                0x00200180                saleMask
+                0x0020018c                cashBackMask
+ .data          0x00200198        0x0 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .data          0x00200198        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+ .data          0x0020019c        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+ .data          0x002001a0        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+ .data          0x002001a4        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+ .data          0x002001a8        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+ .data          0x002001ac        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+ .data          0x002001b0        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+ .data          0x002001b4        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+ .data          0x002001b8        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+ *fill*         0x002001b8        0x8 00
+ .data          0x002001c0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+ .data          0x002001d0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+ .data          0x002001e0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+ .data          0x002001f0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+ .data          0x00200200        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ *fill*         0x00200204        0xc 00
+ .data          0x00200210       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+ .data          0x00200220       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+ .data          0x00200230       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+ .data          0x00200240       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+ .data          0x00200250       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+ .data          0x00200260       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+ .data          0x00200270       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+ .data          0x00200280       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+ .data          0x00200290       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+ .data          0x002002a0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+ .data          0x002002b0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+ .data          0x002002c0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+ .data          0x002002d0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+ .data          0x002002e0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+ .data          0x002002f0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+ .data          0x00200300       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+ .data          0x00200310        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .data          0x00200310        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+ .data          0x00200310        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .data          0x00200310        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .data          0x00200310        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .data          0x00200310        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .data          0x00200310        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .data          0x00200310        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .data          0x00200310        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+ *(.gnu.linkonce.d.*)
+                0x00200310                __data_end = .
+
+.bss            0x00200310      0x3b1 load address 0x00004f5a
+                0x00200310                __bss_start = .
+ *(.bss .bss.*)
+ .bss           0x00200310        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+ .bss           0x00200310        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .bss           0x00200310        0x0 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .bss           0x00200310       0x30 Obj/GNU_ARM_DEBUG_T2/Entry.o
+                0x00200310                gGoalGraphicLibInstance
+ .bss           0x00200340        0x8 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .bss           0x00200348        0x0 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .bss           0x00200348        0x0 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .bss           0x00200348        0x0 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .bss           0x00200348        0x0 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .bss           0x00200348        0x0 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .bss           0x00200348        0x0 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+ .bss           0x00200348        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .bss           0x00200348        0x8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+                0x00200348                DllGetProcAddress3
+                0x0020034c                extens_Dll
+ .bss           0x00200350        0x8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+                0x00200350                toolsDll
+                0x00200354                DllGetProcAddressTools
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+ .bss           0x00200358        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+ .bss           0x00200358        0x4 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+ .bss           0x0020035c        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+ .bss           0x0020035c        0x8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .bss           0x00200364        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+ .bss           0x00200364        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .bss           0x00200364        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .bss           0x00200364        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .bss           0x00200364        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .bss           0x00200364        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .bss           0x00200364        0x0 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .bss           0x00200364        0x0 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x00200364        0xc Obj/GNU_ARM_DEBUG_T2/Menu.o
+                0x00200364                sSavedStatusLeds
+                0x00200368                sSavedStatusFooter
+                0x0020036c                sSavedStatusHeader
+ COMMON         0x00200370        0x4 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+                0x00200370                pin
+ COMMON         0x00200374       0x15 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+                0x00200374                billamount
+                0x00200380                billNumber
+ COMMON         0x00200389      0x1b8 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+                0x00200389                totalAmount
+                0x002003a7                sale
+                0x002003ac                cardDetails
+                0x0020053c                cashBack
+ COMMON         0x00200541      0x180 Obj/GNU_ARM_DEBUG_T2/processCard.o
+                0x00200541                tcTrk2
+                0x002005c1                tcTrk3
+                0x00200641                tcTrk1
+                0x002006c1                __bss_end = .
+                0x002006c1                PROVIDE (end, .)
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Main.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Entry.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Menu.o
+LOAD Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Utils.o
+LOAD Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+LOAD Obj/GNU_ARM_DEBUG_T2/billPayment.o
+LOAD Obj/GNU_ARM_DEBUG_T2/cashBack.o
+LOAD Obj/GNU_ARM_DEBUG_T2/processCard.o
+START GROUP
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/BarCode_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/BCR_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/SECTPLUS.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/SEC_extend.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/Digest_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/dll_wifi_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/IP_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/LinkLayerExeInterface_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/SNMP_Tplus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/SSL_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/gps_dll.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/IPA280_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/ExtraGPRS.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/Mifare_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TPass_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GTL_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/NDEF_TPlus.LIB
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/SNTP.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/XMLs_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/FMG_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TlvTree_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/FTP_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/LIBOS.LIB
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/libTmsCall_TPlus.lib
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/LIBGRAPHICS.LIB
+LOAD D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB
+LOAD D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libsupc++.a
+LOAD D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a
+LOAD D:/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a
+END GROUP
+OUTPUT(Obj/GNU_ARM_DEBUG_T2/POS_AP.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x10
+ .ARM.attributes
+                0x00000000       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+ .ARM.attributes
+                0x00000010       0x10 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .ARM.attributes
+                0x00000020       0x10 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .ARM.attributes
+                0x00000030       0x10 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .ARM.attributes
+                0x00000040       0x10 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .ARM.attributes
+                0x00000050       0x10 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .ARM.attributes
+                0x00000060       0x10 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .ARM.attributes
+                0x00000070       0x10 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .ARM.attributes
+                0x00000080       0x10 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .ARM.attributes
+                0x00000090       0x10 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .ARM.attributes
+                0x000000a0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+ .ARM.attributes
+                0x000000b0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+ .ARM.attributes
+                0x000000c0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+ .ARM.attributes
+                0x000000d0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+ .ARM.attributes
+                0x000000e0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+ .ARM.attributes
+                0x000000f0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+ .ARM.attributes
+                0x00000100       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+ .ARM.attributes
+                0x00000110       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+ .ARM.attributes
+                0x00000120       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .ARM.attributes
+                0x00000130       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .ARM.attributes
+                0x00000140       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+ .ARM.attributes
+                0x00000150       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .ARM.attributes
+                0x00000160       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .ARM.attributes
+                0x00000170       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .ARM.attributes
+                0x00000180       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+ .ARM.attributes
+                0x00000190       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+ .ARM.attributes
+                0x000001a0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+ .ARM.attributes
+                0x000001b0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+ .ARM.attributes
+                0x000001c0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+ .ARM.attributes
+                0x000001d0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+ .ARM.attributes
+                0x000001e0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+ .ARM.attributes
+                0x000001f0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+ .ARM.attributes
+                0x00000200       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+ .ARM.attributes
+                0x00000210       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+ .ARM.attributes
+                0x00000220       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+ .ARM.attributes
+                0x00000230       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+ .ARM.attributes
+                0x00000240       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+ .ARM.attributes
+                0x00000250       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+ .ARM.attributes
+                0x00000260       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+ .ARM.attributes
+                0x00000270       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+ .ARM.attributes
+                0x00000280       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+ .ARM.attributes
+                0x00000290       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+ .ARM.attributes
+                0x000002a0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+ .ARM.attributes
+                0x000002b0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+ .ARM.attributes
+                0x000002c0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+ .ARM.attributes
+                0x000002d0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+ .ARM.attributes
+                0x000002e0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+ .ARM.attributes
+                0x000002f0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+ .ARM.attributes
+                0x00000300       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+ .ARM.attributes
+                0x00000310       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+ .ARM.attributes
+                0x00000320       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+ .ARM.attributes
+                0x00000330       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+ .ARM.attributes
+                0x00000340       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+ .ARM.attributes
+                0x00000350       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+ .ARM.attributes
+                0x00000360       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+ .ARM.attributes
+                0x00000370       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ .ARM.attributes
+                0x00000380       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+ .ARM.attributes
+                0x00000390       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+ .ARM.attributes
+                0x000003a0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+ .ARM.attributes
+                0x000003b0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+ .ARM.attributes
+                0x000003c0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+ .ARM.attributes
+                0x000003d0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+ .ARM.attributes
+                0x000003e0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+ .ARM.attributes
+                0x000003f0       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+ .ARM.attributes
+                0x00000400       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+ .ARM.attributes
+                0x00000410       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+ .ARM.attributes
+                0x00000420       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+ .ARM.attributes
+                0x00000430       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+ .ARM.attributes
+                0x00000440       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+ .ARM.attributes
+                0x00000450       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+ .ARM.attributes
+                0x00000460       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+ .ARM.attributes
+                0x00000470       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+ .ARM.attributes
+                0x00000480       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .ARM.attributes
+                0x00000490       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+ .ARM.attributes
+                0x000004a0       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004b0       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004c0       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x000004d0       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x000004e0       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000004f0       0x10 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000500       0x10 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+
+.comment        0x00000000       0x23
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .comment       0x00000012       0x11 Obj/GNU_ARM_DEBUG_T2/Main.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ .comment       0x00000000       0x12 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .comment       0x00000000       0x12 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x12 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x12 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .comment       0x00000000       0x12 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .comment       0x00000000       0x12 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x12 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_abbrev   0x00000000      0xf9a
+ .debug_abbrev  0x00000000      0x1ab D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_abbrev  0x000001ab      0x151 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_abbrev  0x000002fc      0x228 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_abbrev  0x00000524       0xef Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_abbrev  0x00000613      0x141 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_abbrev  0x00000754       0x97 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_abbrev  0x000007eb      0x116 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_abbrev  0x00000901      0x12b Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_abbrev  0x00000a2c      0x11f Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_abbrev  0x00000b4b      0x10a Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_abbrev  0x00000c55       0xa6 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000cfb       0x85 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000d80       0x89 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_abbrev  0x00000e09       0x78 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x00000e81       0x94 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000f15       0x85 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_info     0x00000000     0x634e
+ .debug_info    0x00000000      0xcb8 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_info    0x00000cb8     0x23e8 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_info    0x000030a0     0x18e7 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_info    0x00004987      0x1f8 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_info    0x00004b7f      0x4c5 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_info    0x00005044       0xab Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_info    0x000050ef      0x384 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_info    0x00005473      0x354 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_info    0x000057c7      0x36f Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_info    0x00005b36      0x2f3 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_info    0x00005e29       0xfa D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_info    0x00005f23       0xcd D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_info    0x00005ff0       0xe1 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_info    0x000060d1       0xbb D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_info    0x0000618c       0xcf D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_info    0x0000625b       0xf3 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_line     0x00000000      0xf35
+ .debug_line    0x00000000      0x1b2 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_line    0x000001b2       0xdd Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_line    0x0000028f      0x261 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_line    0x000004f0       0xc5 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_line    0x000005b5      0x105 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_line    0x000006ba       0x61 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_line    0x0000071b       0xd4 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_line    0x000007ef       0xd3 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_line    0x000008c2       0xd9 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_line    0x0000099b      0x132 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_line    0x00000acd       0xd8 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_line    0x00000ba5       0xd6 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_line    0x00000c7b       0x7f D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_line    0x00000cfa       0x81 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_line    0x00000d7b       0xdc D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_line    0x00000e57       0xde D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_frame    0x00000000      0x630
+ .debug_frame   0x00000000       0x70 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_frame   0x00000070       0x28 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_frame   0x00000098      0x28c Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_frame   0x00000324       0x5c Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_frame   0x00000380       0x7c Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_frame   0x000003fc       0x28 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_frame   0x00000424       0x48 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_frame   0x0000046c       0x48 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_frame   0x000004b4       0x48 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_frame   0x000004fc       0x64 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_frame   0x00000560       0x28 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000588       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_frame   0x000005a8       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_frame   0x000005c8       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x000005e8       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000608       0x28 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_pubnames
+                0x00000000      0x601
+ .debug_pubnames
+                0x00000000       0x49 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_pubnames
+                0x00000049       0x1b Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_pubnames
+                0x00000064      0x1d8 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_pubnames
+                0x0000023c       0x90 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_pubnames
+                0x000002cc       0x66 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_pubnames
+                0x00000332       0x25 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_pubnames
+                0x00000357       0x6a Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_pubnames
+                0x000003c1       0x88 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_pubnames
+                0x00000449       0xac Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_pubnames
+                0x000004f5       0x5d Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_pubnames
+                0x00000552       0x1d D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_pubnames
+                0x0000056f       0x1d D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_pubnames
+                0x0000058c       0x1d D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_pubnames
+                0x000005a9       0x1d D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_pubnames
+                0x000005c6       0x1d D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_pubnames
+                0x000005e3       0x1e D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_aranges  0x00000000      0x200
+ .debug_aranges
+                0x00000000       0x20 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_aranges
+                0x00000020       0x20 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_aranges
+                0x00000040       0x20 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_aranges
+                0x00000060       0x20 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_aranges
+                0x00000080       0x20 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_aranges
+                0x000000a0       0x20 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_aranges
+                0x000000c0       0x20 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_aranges
+                0x000000e0       0x20 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_aranges
+                0x00000100       0x20 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_aranges
+                0x00000120       0x20 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_aranges
+                0x00000140       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000160       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000180       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_aranges
+                0x000001a0       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x000001c0       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000001e0       0x20 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+
+.debug_str      0x00000000     0x1eac
+ .debug_str     0x00000000       0x20 D:/SDKs/SDK11.16.4.02/SDK11.16.4.02/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_str     0x00000020      0xe35 Obj/GNU_ARM_DEBUG_T2/Main.o
+                               0x11fd (size before relaxing)
+ .debug_str     0x00000e55      0x656 Obj/GNU_ARM_DEBUG_T2/Entry.o
+                                0xcdc (size before relaxing)
+ .debug_str     0x000014ab       0xac Obj/GNU_ARM_DEBUG_T2/Menu.o
+                                0x2a1 (size before relaxing)
+ .debug_str     0x00001557      0x458 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+                                0x6d6 (size before relaxing)
+ .debug_str     0x000019af       0x29 Obj/GNU_ARM_DEBUG_T2/Utils.o
+                                 0x7c (size before relaxing)
+ .debug_str     0x000019d8       0x60 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+                                0x3c4 (size before relaxing)
+ .debug_str     0x00001a38       0x65 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+                                0x3be (size before relaxing)
+ .debug_str     0x00001a9d       0x78 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+                                0x2b4 (size before relaxing)
+ .debug_str     0x00001b15       0x9b Obj/GNU_ARM_DEBUG_T2/processCard.o
+                                0x30b (size before relaxing)
+ .debug_str     0x00001bb0       0xd6 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+                                0x16b (size before relaxing)
+ .debug_str     0x00001c86       0x50 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+                                0x157 (size before relaxing)
+ .debug_str     0x00001cd6       0x50 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+                                0x150 (size before relaxing)
+ .debug_str     0x00001d26       0xc8 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+                                0x15d (size before relaxing)
+ .debug_str     0x00001dee       0x60 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+                                0x16c (size before relaxing)
+ .debug_str     0x00001e4e       0x5e D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+                                0x175 (size before relaxing)
+
+.debug_loc      0x00000000      0x8aa
+ .debug_loc     0x00000000       0x2b Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_loc     0x0000002b      0x439 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_loc     0x00000464       0x82 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_loc     0x000004e6       0xad Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_loc     0x00000593       0x2b Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_loc     0x000005be       0x57 Obj/GNU_ARM_DEBUG_T2/saleMenu.o
+ .debug_loc     0x00000615       0x56 Obj/GNU_ARM_DEBUG_T2/billPayment.o
+ .debug_loc     0x0000066b       0x56 Obj/GNU_ARM_DEBUG_T2/cashBack.o
+ .debug_loc     0x000006c1       0x82 Obj/GNU_ARM_DEBUG_T2/processCard.o
+ .debug_loc     0x00000743       0x5b D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000079e       0x5a D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_loc     0x000007f8       0x13 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_loc     0x0000080b       0x26 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000831       0x79 D:/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
